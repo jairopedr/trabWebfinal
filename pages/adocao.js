@@ -1,9 +1,6 @@
 import Head from 'next/head';
 import Footer from '../components/Footer';
 
-//import Menu from '../components/Menu';
-
-//import img from '../assets/my-image.png'
 
 function Adocao() {
     return (
@@ -30,7 +27,7 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Ceci </h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button" >Entre em Contato</a>
                                 {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             </div>
                         </div>
@@ -41,7 +38,7 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Jack</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
                                 {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             </div>
                         </div>
@@ -52,7 +49,7 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Layla</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
                             {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             </div>
                         </div>
@@ -63,7 +60,7 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Nick</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
                                 {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             </div>
                         </div>
@@ -74,7 +71,7 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Tadeu</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
                                 {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             </div>
                         </div>
@@ -85,7 +82,7 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Oliver</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
                             {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             </div>
                         </div>
@@ -96,7 +93,7 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Simon</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
                             {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             </div>
                         </div>
@@ -107,8 +104,8 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Max</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
-                            {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
+                            
                             </div>
                         </div>
                     </div>
@@ -118,8 +115,8 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Bob</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
-                            {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
+                            
                             </div>
                         </div>
                     </div>
@@ -129,7 +126,7 @@ function Adocao() {
                             <div className="card-body">
                                 <h5 className="card-title"> <b>Nome:</b> Layla</h5>
                                 <h5 className="card-title"><b>DISPONÍVEL PARA ADOÇÃO!</b></h5>
-                                <a className="btn btn-primary btn-lg" href="http://localhost:3001/contato" role="button">Entre em Contato</a>
+                                <a className="btn btn-primary btn-lg" href="/sobre#tips" role="button">Entre em Contato</a>
                             {/* <p className="card-text"><small className="text-muted">Last updated 3 mins ago</small></p> */}
                             </div>
                         </div>
