@@ -37,8 +37,10 @@ https://nextjs.org/docs/getting-started
 
 
 Rodar o projeto
+
 ```npm run dev``` 
 
 **Para estilização do site instale o Bootstrap:**
+
 ```npm install --save bootstrap```
 
