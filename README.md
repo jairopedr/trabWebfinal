@@ -31,7 +31,7 @@ Abra package.json e adicione o seguinte scripts:
   
 }
 
-**Consulte o seguinte link para saber a descrição dencada propriedade:**
+**Consulte o seguinte link para saber a descrição de cada propriedade:**
 
 https://nextjs.org/docs/getting-started
 
