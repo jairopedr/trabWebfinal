@@ -1,8 +1,8 @@
-# TRABALHO FINAL DESENVOLVIDO PARA DISCIPLINA DE DESENVOLVIMENTO WEB
+# SITE PARA O ABRIGO DE ANIMAIS SALVAMENTOS RIO PAS
 
-Alunos: Jairo Pedro, Luana Teixeira e Matheus Souza
+TRABALHO FINAL DESENVOLVIDO PARA DISCIPLINA DE DESENVOLVIMENTO WEB
 
-#SITE PARA O ABRIGO DE ANIMAIS SALVAMENTOS RIO PAS
+**Alunos:** Jairo Pedro, Luana Teixeira e Matheus Souza
 
 **DOCUMENTAÇÃO:**
 
@@ -58,7 +58,7 @@ Divulgar o trabalho realizado no abrigo como forma de cativar mais pessoas a faz
 
 **MOTIVAÇÃO:**
 
-A ONG salvamentos RIOPAS faz um excelente trabalho em relação ao cuidado e proteção de animais desamparados, salvando animais em situação de rua, feridos ou que foram abandonados, acolhendo-os e oferecendo o cuidado necessário e alimentação. Realizando esse trabalho a mais de 3 anos, a ONG já fez o resgate de inúmeros animais e hoje se encontra com um abrigo praticamente lotado.
+O abrigo de animais Salvamentos RIOPAS faz um excelente trabalho em relação ao cuidado e proteção de animais desamparados, salvando animais em situação de rua, feridos ou que foram abandonados, acolhendo-os e oferecendo o cuidado necessário e alimentação. Realizando esse trabalho a mais de 3 anos, a ONG já fez o resgate de inúmeros animais e hoje se encontra com um abrigo praticamente lotado. Portanto, a intenção ao desenvolver o site para o abrigo de animais foi de ajudar o projeto como uma forma de divulgar o trabalho realizado por eles e assim tentar atingir mais pessoas que possam se tornar possíveis doadores ou voluntários.
 
 **COMO O SITE RESOLVE O PROBLEMA:**
 
