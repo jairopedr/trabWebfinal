@@ -76,13 +76,13 @@ function Sobre({ data }) {
     )
 }
 
-export async function getServerSideProps(){
-    const response = await fetch(`http://localhost:8080/`);
-    const data= await response.json();
-    // console.log(data);//conferir se há os dados
-
-    return { props: { data } };
-}
+//export async function getServerSideProps(){
+//    const response = await fetch(`http://localhost:8080/`);
+//    const data= await response.json();
+//    // console.log(data);//conferir se há os dados
+//
+//    return { props: { data } };
+//}
 
 
 export default Sobre;
