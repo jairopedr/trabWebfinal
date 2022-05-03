@@ -9,7 +9,6 @@ Rodar o projeto
 SEQUENCIA PARA CRIAR PROJETO
 
 Criar o arquivo package
-
 ### npm init 
 
 Criar projeto com o Next.JS
