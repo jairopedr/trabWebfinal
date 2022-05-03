@@ -11,6 +11,7 @@ Primeiramente crie o arquivo package.json com o seguinte comando:
 
 Crie projeto com o Next.JS:
 ```npm install next react react-dom```
+
 ```yarn add next react react-dom```
 
 Abra package.json e adicione o seguinte scripts:
@@ -27,8 +28,8 @@ https://nextjs.org/docs/getting-started
 
 
 Rodar o projeto
-### npm run dev 
+```npm run dev``` 
 
 **Para estilização do site instale o Bootstrap:**
-### npm install --save bootstrap
+```npm install --save bootstrap```
 
