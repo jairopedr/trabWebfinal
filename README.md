@@ -1,21 +1,34 @@
-COMO RODAR O PROJETO BAIXADO
+### Para começar é necessário ter o Node.js instalado em sua máquina.
+**https://nodejs.org/en/**
 
-Instalar todas as dependencias indicada pelo package.json
+Também será necessário o NPM (ou Yearn).
 ### npm install
 
-Rodar o projeto
-### npm run dev
+**COMO CRIAR O PROJETO DE FORMA MANUAL**
 
-SEQUENCIA PARA CRIAR PROJETO
-
-Criar o arquivo package
+Primeiramente crie o arquivo package.json com o seguinte comando:
 ### npm init 
 
-Criar projeto com o Next.JS
+Crie projeto com o Next.JS:
 ### npm install next react react-dom
+### yarn add next react react-dom
+
+Abra package.json e adicione o seguinte scripts:
+
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint"
+}
+
+**Consulte o seguinte link para saber a descrição dencada propriedade:**
+https://nextjs.org/docs/getting-started
+
 
 Rodar o projeto
 ### npm run dev 
 
-Baixar o Bootstrap
+**Para estilização do site instale o Bootstrap:**
 ### npm install --save bootstrap
+
