@@ -10,8 +10,8 @@ Primeiramente crie o arquivo package.json com o seguinte comando:
 ### npm init 
 
 Crie projeto com o Next.JS:
-### npm install next react react-dom
-### yarn add next react react-dom
+```npm install next react react-dom```
+```yarn add next react react-dom```
 
 Abra package.json e adicione o seguinte scripts:
 
