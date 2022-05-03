@@ -3,7 +3,7 @@ import Head from 'next/head';
 import Footer from '../components/Footer';
 //import { Container, Row, Card, Button } from 'react-bootstrap'
 
-function Sobre() {
+function Sobre({ data }) {
     return (
         <>
             <Head>
