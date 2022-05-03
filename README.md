@@ -1,3 +1,11 @@
+# TRABALHO FINAL DESENVOLVIDO PARA DISCIPLINA DE DESENVOLVIMENTO WEB
+
+Alunos: Jairo Pedro, Luana Teixeira e Matheus Souza
+
+#SITE PARA O ABRIGO DE ANIMAIS SALVAMENTOS RIO PAS
+
+**DOCUMENTAÇÃO:**
+
 ### Para começar é necessário ter o Node.js instalado em sua máquina.
 **https://nodejs.org/en/**
 
@@ -10,13 +18,6 @@ Também será necessário o NPM (ou Yearn).
 Primeiramente crie o arquivo package.json com o seguinte comando:
 
 ```npm init```
-# TRABALHO FINAL DESENVOLVIDO PARA DISCIPLINA DE DESENVOLVIMENTO WEB
-
-Alunos: Jairo Pedro, Luana Teixeira e Matheus Souza
-
-#SITE PARA O ABRIGO DE ANIMAIS SALVAMENTOS RIO PAS
-
-DOCUMENTAÇÃO:
 
 Crie projeto com o Next.JS:
 
