@@ -19,7 +19,7 @@ Crie projeto com o Next.JS:
 
 Abra package.json e adicione o seguinte scripts:
 
-"scripts": {
+```"scripts": {
 
   "dev": "next dev",
   
@@ -29,7 +29,7 @@ Abra package.json e adicione o seguinte scripts:
   
   "lint": "next lint"
   
-}
+}```
 
 **Consulte o seguinte link para saber a descrição dencada propriedade:**
 
