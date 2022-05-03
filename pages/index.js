@@ -45,7 +45,7 @@ function Home( { data } ) {
             </div>
             <main className="container p-3">
                 <div className="jumbotron">
-                    <h1 className="display-2">Projeto Salvamento Riopas🐕</h1>
+                    <h1 className="display3">Projeto Salvamento Riopas🐕</h1>
                     <br></br>
                     <p className="lead">Este é o espaço virtual do Projeto Salvamento Riopas, pelo qual você poderá conhecer um pouco sobre ele e sobre  o trabalho que realizamos com os animais de rua de Rio Pardo de Minas. Por aqui, nosso objetivo é conectar as pessoas que possuem compaixão com esses indefesos, e tentar 
                     repassar a importância e o amor que devemos ter com eles. Aqui você irá conhecer alguns dos vários animais que estão disponiveis para adoção, conhecer alguma das nossas tarefas e como você pode estar ajudando, seja com doações, se voluntariando e até mesmo adotando um desses amiguinhos tão dóceis!</p>
@@ -99,8 +99,7 @@ function Home( { data } ) {
                         <img src="/images-animais/Dica2.jpg" className="card-img-top" alt="imagem de uma gata" width="60" height="300"/>
                         <button type="button" className="btn btn-primary m-1" data-bs-toggle="modal" data-bs-target="#exampleModal2">
                             <b>🐶 Dica 2</b>
-                        </button>
-                    
+                        </button> 
                         <div className="modal fade" id="exampleModal2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                             <div className="modal-dialog">
                                 <div className="modal-content">
@@ -178,12 +177,12 @@ function Home( { data } ) {
     )
 }
 
-// export async function getServerSideProps(){
-//     const response = await fetch(`http://localhost:8080/`);
-//     const data= await response.json();
-//     console.log(data);//conferir se há os dados
+export async function getServerSideProps(){
+    const response = await fetch(`http://localhost:8080/`);
+    const data= await response.json();
+    // console.log(data);//conferir se há os dados
 
-//     return { props: { data } };
-// }
+    return { props: { data } };
+}
 
 export default Home;
